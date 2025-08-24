@@ -153,4 +153,8 @@ fn create_replacement(remove: bool) -> Option<File> {
         }
         false => None,
     }
+<<<<<<< HEAD:src/main.rs
 }
+=======
+}
+>>>>>>> 54765055607a92c19599fb6ecb663ae521ce2003:main.rs
